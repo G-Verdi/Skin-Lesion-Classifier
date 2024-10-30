@@ -55,12 +55,19 @@ The 35th column provides a classification of the skin lesion into one of 6 types
 
 
 `
-Class code:   Class:              
-       1             psoriasis			    
-       2             seboreic dermatitis         
-       3             lichen planus              
-       4             pityriasis rosea           
-       5             cronic dermatitis              
+Class code          Class  
+`  
+
+       1             psoriasis  
+       
+       2             seboreic dermatitis  
+       
+       3             lichen planus  
+       
+       4             pityriasis rosea  
+       
+       5             cronic dermatitis  
+       
        6             pityriasis rubra pilaris
 `
 
