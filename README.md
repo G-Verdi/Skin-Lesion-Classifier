@@ -1,5 +1,4 @@
 # Skin-Lesion-Classifer
-COMPSCI 2120 (2018) - Course Assignment #4  
 Dataset sourced by Professor James Hughes - University of Western Ontario
 
 
