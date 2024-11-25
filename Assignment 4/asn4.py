@@ -1,3 +1,5 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-github-username>/<your-repo-name>/blob/master/<notebook-name>.ipynb)
+
 def loaddata():
 	"""
 	Loads the csv file into a list of lists
