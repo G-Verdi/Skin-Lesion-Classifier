@@ -1,6 +1,3 @@
-#Name: Shona Gabrielle ALlohverdi
-#Student number: 250838278
-
 def loaddata():
 	"""
 	Loads the csv file into a list of lists
