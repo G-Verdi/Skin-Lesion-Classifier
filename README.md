@@ -1,3 +1,4 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-github-username>/<your-repo-name>/blob/master/<notebook-name>.ipynb)
 # Skin-Lesion-Classifer
 Dataset sourced by Professor James Hughes - University of Western Ontario - 2018
 
@@ -140,5 +141,3 @@ In []: learn2(patients)
 ![](Plots/Figure_4.png)
 
 There doesn't appear to be a pattern/structure to the feature vectors such that lesion type can be definitively determined. This may mean that the clinicians are examining lesion attributes with too weak a correlation to oneanother, and to each lesion type to reveal any structure within the data. 
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-github-username>/<your-repo-name>/blob/master/<notebook-name>.ipynb)
